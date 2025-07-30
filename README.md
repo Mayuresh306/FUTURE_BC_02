@@ -60,7 +60,7 @@ The token will be integrated into my **Proof of Ownership dApp** where users can
 ## 🔗 Links
 
 - 🔍 **Explorer**: [View Contract on Polygonscan](https://amoy.polygonscan.com/address/0xa6fbf14F6dCeCf8960d74cB4FD2E81cB26c04820)
-- 🖇️ **LinkedIn**: [Post Submission]()
+- 🖇️ **LinkedIn**: [Post Submission](https://www.linkedin.com/posts/mayureshwar-reddy-37a4a2342_futureinterns-task2-blockchain-activity-7356278982918516736-gfz1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXbiY4BD_ne47IWVA4Q_vpVDbbJD63-cbc)
 
 ---
 
